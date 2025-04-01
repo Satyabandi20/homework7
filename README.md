@@ -4,7 +4,7 @@
 ![QR Code](qr_codes/QRCode_20250331114556.png)
 
 ## Log of QR Code Creation
-![Log Screenshot](qr_codes/qr_logs.png)
+![image](https://github.com/user-attachments/assets/535907ec-798a-469f-aaed-9527d3c31a94)
 
 ```bash
 @Satyabandi20 ➜ /workspaces/homework7 (main) $ docker login -u satya6644
